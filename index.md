@@ -7,7 +7,14 @@ layout: default
 <div class="well jumbotron">
     <h1>RecSys challenge 2014</h1>
         <p class="lead">We are pleased to announce .... associated with ACM RecSys 2014 ...</p>
-        <p>Start date: xxx, End date: xxx, Submission Deadline: xxx</p>
+        <p>Important dates</p>
+        <p>
+            *First call for participation: February, 2014
+            *Data made available: 24 March, 2014
+            *Deadline for paper submission: 14 August, 2014
+            *Notification of acceptance: 29 August, 2014
+            *Winners announced: RecSys 2014 (6-10 October 2014)
+      </p>
         <p><a class="btn btn-lg btn-success" href="#" role="button">Sign up</a></p>
 </div>
 
