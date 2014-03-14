@@ -11,11 +11,11 @@ layout: default
 </div>
 
 #Important dates
-..*First call for participation: February, 2014
-..*Data made available: 24 March, 2014
-..*Deadline for paper submission: 14 August, 2014
-..*Notification of acceptance: 29 August, 2014
-..*Winners announced: RecSys 2014 (6-10 October 2014)
+-First call for participation: February, 2014
+-Data made available: 24 March, 2014
+-Deadline for paper submission: 14 August, 2014
+-Notification of acceptance: 29 August, 2014
+-Winners announced: RecSys 2014 (6-10 October 2014)
 
 #Contest
 General description... See [Challenge](/challenge/) for more information.
