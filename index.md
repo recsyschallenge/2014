@@ -5,8 +5,8 @@ layout: default
 
 
 <div class="well jumbotron">
-    <h1>RecSys challenge 2014</h1>
-        <p class="lead">We are pleased to announce .... associated with ACM RecSys 2014 ...</p>
+    <h1>RecSys challenge 2014: User Engagemen as Evalution</h1>
+        <p class="lead">We are pleased to announce the 2014 RecSys Challenge in association with ACM RecSys 2014 Conference. The theme of this year's challenge is evaluation based on user engagement. </p>
         <p><a class="btn btn-lg btn-success" href="#" role="button">Sign up</a></p>
 </div>
 
