@@ -19,4 +19,4 @@ The dataset is divided into three portions: a training set, a test set and a fin
 
 
 #Final evaluation
-The final evaluation is done using the independent evaluation set. This portion of data will be published without ground truth (i.e. without retweet and favorite count). The final algorithm of participants are tested against this set. 
+The final evaluation is done using the independent evaluation set. This portion of data will be published without ground truth (i.e. without retweet and favorite count). The final algorithm of participants are tested against this set. The winners are selected based on their performance on the evaluation set.
