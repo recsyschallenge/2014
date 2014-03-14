@@ -23,4 +23,4 @@ layout: default
 General description... See [Challenge](/challenge/) for more information.
 
 #Workshop
-About the workshop during the Recsys 2014 conference...
+The RecSys challenge workshop will be held during the <a href="http://recsys.acm.org/recsys14/">ACM RecSys 2014</a> at Foster City, Silicon Valley, USA, 6th-10th October 2014.
