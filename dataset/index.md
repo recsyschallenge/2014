@@ -27,9 +27,9 @@ Consists of 1 file: **training.dat**. The file is CSV formatted with every line 
 
 scraping timestamp**,**rating**,**tweet data
 
--*Scraping timestamp*: a linux timestamp indicating the moment the Twitter API was queried for the tweet information. So it is not the posting time of the tweet itself but rather the moment at which the data of the tweet was collected. This may be important to take into account since it reflects how long the tweet has been *online* and may therefore influence the number of retweets or favorites (the longer a tweet has been online, the more exposure it has).
--*Rating*: The numeric rating on a scale 10-star scale, extracted from the tweet text.
--*tweet data*: The tweet metadata in JSON format. Includes all data available through the Twitter API except for the tweet text itself. 
+- *Scraping timestamp*: a linux timestamp indicating the moment the Twitter API was queried for the tweet information. So it is not the posting time of the tweet itself but rather the moment at which the data of the tweet was collected. This may be important to take into account since it reflects how long the tweet has been *online* and may therefore influence the number of retweets or favorites (the longer a tweet has been online, the more exposure it has).
+- *Rating*: The numeric rating on a scale 10-star scale, extracted from the tweet text.
+- *Tweet data*: The tweet metadata in JSON format. Includes all data available through the Twitter API except for the tweet text itself. 
 
 The following is an example of one line of the training dataset:
 
@@ -43,8 +43,38 @@ Consists of 3 files: **test.dat**, **test_empty.dat**, **test_solution.dat**
 The same structure as the training set, so CSV formatted, one line per tweet and the datafields: scraping time, rating and tweet data. This file contains the 10% tweets chronologically occuring after the 80% training tweets. 
 
 ###test_empty.dat
-Again similarly structured as the **test.dat** and **training.dat** files but here the important tweet data fields *favorite_count* and *retweet_count* have been cleared (i.e., set the empty string).
+Again similarly structured as the **test.dat** and **training.dat** files, but here the important tweet data fields *favorite_count* and *retweet_count* have been cleared (i.e., set to empty string). This file is the task file i.e., it contains all tweets and users for which the engagement (=favorite\_count \+ retweet\_count) must be ranked.
+
+
+###test_solution.dat
+The solution file for the **test_empty.dat** file. It reflects what the result should be given the **test_empty.dat** file. The file is CSV formatted with every line containing the following information:
+
+userid**,**tweetid**,**engagement
+
+- *Userid*: The Twitter userid. This id can be found in the tweet data in the *user* array (e.g., 296041028 in the previous example tweet JSON data).
+- *Tweetid*: The id of the tweet itself. Can be found in the tweet data as the *id* field (e.g., 307139025897152512 in the previous example tweet JSON data).
+- *Engagement*: The sum of the two fields: *favorite_count* and *retweet_count*, indicating the engagement of the tweet.
+
+The file is sorted on userid (descending), then on engagement (descending), then on tweetid (descending). It contains all users contained in the **test_empty.dat** file and ranks all contained tweets by engagement. The weekly evaluation score is calculated by comparing this file with your own solution using the nDCG ranking metric.
 
 ##The evaluation set
+The evaluation set consists of the final 10% of the tweets used in this challenge. Its tweets were posted chronologically after the ones contained in the training and test sets. At the end of the challenge, particpants will be provided with an **evaluation_empty.dat** file (structured similarly as the **test_empty.dat** file) and requested to generate a solution file (structured as **test_solution.dat**) which will be evaluated against the **evaluation_solution.dat** by the organizers to calculate the final challenge score. The **evaluation_solution.dat** file is of course kept private.
 
 #Python example code
+
+Some Python code to help you with the processing the dataset. It reads the **training.dat** file and creates a List structure that contains the information.
+
+    import json
+    def read_the_dataset(the_dataset_file):
+        tweets = list()
+        with file(the_dataset_file,'r') as infile:
+            for line in infile:
+                line_arr = line.strip().split(',')
+                scraping_time = int(line_arr[0])
+                rating = (line_arr[1])
+                tweet = ','.join(line_arr[1:]) # The json format also contains commas (,)
+                json_obj = json.loads(tweet)
+                #use the json_obj to easy access the tweet data
+                #e.g. the tweet id: json_obj['id']
+                tweets.append((scraping_time,rating,tweet))
+        return tweets
