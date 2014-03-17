@@ -12,11 +12,11 @@ The challenge will be based on an extended version of the MovieTweetings dataset
 #The evaluation
 Instead of a traditional evaluation predicting ratings or relevant items, the participants will be tasked with predicting which items generate the highest user engagement, i.e. favorites and retweets.
 
-More specifically, participant's algorithms should generate a ranked list of tweets which are ranked based on the amount of interaction. The interaction is defined as the sum of retweet and favorite count. The official evaluation metrics would be NDCG, MAP and MRR.
+More specifically, participant's algorithms should generate a ranked list of tweets which are ranked based on the amount of interaction. The interaction is defined as the sum of retweet and favorite count. The official evaluation metrics would be NDCG.
 
 #Weekly progress
 The dataset is divided into three portions: a training set, a test set and a final evaluation set. Participants are provided with the training set and test set. Participants should train their model using the training set and can report their results on the test set on a weekly basis.
 
 
 #Final evaluation
-The final evaluation is done using the independent evaluation set. This portion of data will be published without ground truth (i.e. without retweet and favorite count). The final algorithm of participants are tested against this set. The winners are selected based on their performance on the evaluation set.
+The final evaluation is done using the independent evaluation set. This portion of data will not be published and will only be used for the final evaluation by organizers. The final algorithm of participants are tested against this set. The winners are selected based on their performance on the evaluation set.
