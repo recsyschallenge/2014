@@ -18,7 +18,7 @@ The dataset contains **xxx** tweets by **xxx** unique Twitter users. All tweets 
 
 For this challenge, the dataset was chronologically split up in three subsets: training set, test set and evaluation set, as illustrated in the following figure.
 
-**TODO: Include figure here**
+![Dataset split in train, test, and evaluation set](img/dataset_split.png)
 
 The training set consists of the first 80% tweets and can be used as input for the training of models and predictive algorithms. The test and evaluation sets both contain 10% of the remaining tweets and are used for the weekly evaluation by participants themselves (test set) or for the final evaluation by the organizers (evaluation set).
 
