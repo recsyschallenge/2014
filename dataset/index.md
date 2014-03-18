@@ -64,6 +64,7 @@ The evaluation set consists of the final 10% of the tweets used in this challeng
 
 Some Python code to help you with the processing the dataset. It reads the **training.dat** file and creates a List structure that contains the information.
 
+{% highlight python %}
     import json
     def read_the_dataset(the_dataset_file):
         tweets = list()
@@ -78,3 +79,4 @@ Some Python code to help you with the processing the dataset. It reads the **tra
                 #e.g. the tweet id: json_obj['id']
                 tweets.append((scraping_time,rating,tweet))
         return tweets
+{% endhighlight %}
