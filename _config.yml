@@ -4,7 +4,7 @@ description: "The recsyschallenge description"
 url: "http://localhost:4000"
 
 pygments: true
-markdown: rdiscount
+markdown: redcarpet2
 permalink: pretty
 navigation:
 - text: Home
