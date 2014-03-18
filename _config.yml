@@ -3,7 +3,7 @@ description: "The recsyschallenge description"
 
 url: "http://localhost:4000"
 
-
+pygments: true
 markdown: rdiscount
 permalink: pretty
 navigation:
