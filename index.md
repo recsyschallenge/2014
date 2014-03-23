@@ -12,10 +12,10 @@ layout: default
 </div>
 
 #Contest
-Evaluation is a key factor to reflect the quality of a recommender system algorithm. The theme of this year’s challenge is on evaluation. Instead of typical rating prediction algorithms, the focus is to predict how much interaction an item would receive via Tweeter. 
-The challenge is based on an extended version of MovieTweetings dataset, which contains tweets that are generated when users rated movies on IMDb. The challenge for participants is to provide a ranked list of tweets (each referring to a movie) which attract the highest amount of user interactions, which is the highest number of retweet and favorite count.
+Evaluation is a key factor to reflect the quality of a recommender system algorithm. The theme of this year’s challenge is on evaluation. Instead of the typical rating prediction task, the goal is to predict how much interaction an item would receive via Twitter. 
+The challenge is based on an extended version of the [MovieTweetings dataset](http://www.recsyswiki.com/wiki/Movietweetings), which contains tweets that are generated when users rate movies on IMDb (using the iOS app). The challenge for participants is to rank such tweets by expected user interaction, which is expressed in terms of retweet and favorite counts.
 
-General description of the challenge can be found in the [Challenge](/challenge/) section.
+A more detailed description of the challenge can be found in the [Challenge](/challenge/) section.
 
 #Important dates
 <ul>
@@ -27,4 +27,4 @@ General description of the challenge can be found in the [Challenge](/challenge/
 </ul>
 
 #Workshop
-The RecSys challenge workshop will be held during the <a href="http://recsys.acm.org/recsys14/">ACM RecSys 2014</a> at Foster City, Silicon Valley, USA, 6th-10th October 2014.
+The RecSys challenge workshop will be held during the <a href="http://recsys.acm.org/recsys14/">ACM RecSys 2014</a> at Foster City, Silicon Valley, USA, 6th-10th October 2014. Participants are expexted to submit a paper detailing their results and findings. The winners of the challenge will be announced at the RecSys conference.
