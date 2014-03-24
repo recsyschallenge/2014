@@ -70,8 +70,12 @@ Some Python code to help you with the processing of the dataset. It reads the **
     import json
     def read_the_dataset(the_dataset_file):
         tweets = list()
+        header = True
         with file(the_dataset_file,'r') as infile:
             for line in infile:
+                if header:
+                    header = False
+                    continue #skip the CSV header line
                 line_array = line.strip().split(',')
                 user_id = line_array[0]
                 item_id = line_array[1]
