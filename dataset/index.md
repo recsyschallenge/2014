@@ -12,7 +12,15 @@ In its original form MovieTweetings contains only user ids, item ids, ratings an
 
 #Statistics
 
-The dataset contains **xxx** tweets by **xxx** unique Twitter users. All tweets were originally posted between **xxx** and **xxx**.
+----------------------------------------------------------------------------|
+Dataset    | Users  | Items  | Tweets  | Tweets published between           |
+----------------------------------------------------------------------------|
+Training   | 22,079 | 13,618 | 170,285 | 28/02/2013 14:43 - 8/01/2014 22:06 |
+Test       | 5,717  | 4,226  | 21,285  | 8/01/2014 22:06 - 11/02/2014 15:49 |
+Evaluation | 5,514  | 4,559  | 21,287  | 11/02/2014 15:49 - 24/03/2014 9:57 |
+----------------------------------------------------------------------------|
+All        | 24,924 | 15,142 | 212,857 | 28/02/2013 14:43 - 24/03/2014 9:57 |
+----------------------------------------------------------------------------|
 
 #The Data files
 
