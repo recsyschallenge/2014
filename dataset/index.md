@@ -93,6 +93,7 @@ Here's a complete script reading the training set, _empty file and generating a 
 
     import json
     import random
+    
     def read_the_dataset(the_dataset_file):
         tweets = list()
         header = True
@@ -113,6 +114,7 @@ Here's a complete script reading the training set, _empty file and generating a 
                 # e.g. the retweet count: json_obj['retweet_count']
                 tweets.append((user_id, item_id, rating, scraping_time, json_obj))
         return tweets
+        
     def read_todo_from_emtpy_file(the_dataset_file):
         todos = list()
         header = True
@@ -140,7 +142,6 @@ Here's a complete script reading the training set, _empty file and generating a 
         with file(the_solution_file,'w') as outfile:
             outfile.writelines(lines)
     
-  
     # Execution flow starts here ...
     if __name__ == "__main__":
         # Read the training file
