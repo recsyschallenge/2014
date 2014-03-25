@@ -14,7 +14,7 @@ Instead of a traditional evaluation predicting ratings or relevant items, the pa
 
 More specifically, participant's algorithms should generate a ranked list of tweets which are ranked based on the amount of interaction. The interaction is defined as the sum of retweet and favorite count.
 
-##Metrics
+###Metrics
 The evaluation is based on nDCG@10. For each user in the test set, calculate nDCG@10. This is then to be averaged over all users.
 Scripts for the evaluation will be provided further on.
 
