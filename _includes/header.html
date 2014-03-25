@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <meta property="og:image" content="https://farm8.staticflickr.com/7143/13404616053_222e051df8_o.jpg" />
     <meta property="og:type" content="blog"/>
-    <meta property="og:url" content="http://2014.recsyschallenge.com/" />
+    <!-- meta property="og:url" content="http://2014.recsyschallenge.com/" / -->
     <meta property="og:title" content="RecSysChallenge - in conjunction with ACM RecSys 2014."/>
     <title>{{ page.title }}</title>
 
@@ -18,6 +18,15 @@
       
     <!-- Custom styles for this template -->
     <link href="http://2014.recsyschallenge.com/css/justified-nav.css" rel="stylesheet">
+
+<script type="text/javascript">
+// <![CDATA[
+    var meta = document.createElement('meta');
+    meta.setAttribute("property", "og:url");
+    meta.setAttribute("content", location.href);
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(meta);    
+// ]]>
+</script>
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
