@@ -17,7 +17,7 @@ navigation:
 - text: Rules
   url: "/rules/"
 - text: Submission
-  url: "/submission/"
+  url: "/submissions/"
 - text: Organizers
   url: "/organizers/"
 
