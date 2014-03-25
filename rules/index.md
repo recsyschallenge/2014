@@ -2,7 +2,8 @@
 title: Rules
 layout: default
 ---
-To submit a run you should follow some rules which are listed below.
+#General Rules
+To participate in the RecSys challenge you should follow some rules which are listed below.
 
 ###No private sharing outside teams
 Sharing the dataset outside of teams is not permitted. However, publishing or sharing your code is encouraged.
