@@ -5,7 +5,7 @@ layout: default
 To submit a run you should follow some rules which are listed below.
 
 ###No private sharing outside teams
-Sharing the dataset outside of teams is not permitted. 
+Sharing the dataset outside of teams is not permitted. However, publishing or sharing your code is encouraged.
 
 ###Team Mergers
 Team mergers are allowed and can be performed by the team leader. In order to merge contact the organizers.
