@@ -12,8 +12,11 @@ The challenge is based on an extended version of the [MovieTweetings dataset](ht
 #The evaluation
 Instead of a traditional evaluation predicting ratings or relevant items, the participants are tasked with predicting which items generate the highest user engagement, i.e. favorites and retweets.
 
-More specifically, participant's algorithms should generate a ranked list of tweets which are ranked based on the amount of interaction. The interaction is defined as the sum of retweet and favorite count. The nDCG evaluation metric will be used for the comparison of the participant's ranked list and the actual true ranking.
+More specifically, participant's algorithms should generate a ranked list of tweets which are ranked based on the amount of interaction. The interaction is defined as the sum of retweet and favorite count.
 
+##Metrics
+The evaluation is based on nDCG@10. For each user in the test set, calculate nDCG@10. This is then to be averaged over all users.
+Scripts for the evaluation will be provided further on.
 
 #Weekly progress
 The dataset is divided into three portions: a training set, a test set and a final evaluation set. Participants are provided with the training set and test set. Participants should train their model using the training set and can report their results on the test set on a weekly basis.
