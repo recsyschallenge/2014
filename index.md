@@ -19,11 +19,11 @@ A more detailed description of the challenge can be found in the [Challenge](/ch
 
 #Important dates
 <ul>
-    <li>First call for participation: February, 2014</li>
+    <li>First call for participation: March, 2014</li>
     <li>Data made available: 24 March, 2014</li>
     <li>Deadline for paper submission: 14 August, 2014</li>
     <li>Notification of acceptance: 1 September, 2014</li>
-    <li>Deadline for submitting runs for the challenge: 22 September</li>
+    <li>Deadline for submitting runs for the challenge: 22 September, 2014</li>
     <li>Winners announced: RecSys 2014 (6-10 October 2014)</li>
 </ul>
 
