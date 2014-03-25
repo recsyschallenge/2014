@@ -5,10 +5,10 @@ layout: default
 To submit a run you should follow some rules which are listed below.
 
 ###No private sharing outside teams
-Privately sharing code or data outside of teams is not permitted. It's OK to share code if made available to all players on the forums.
+Sharing the dataset outside of teams is not permitted. 
 
 ###Team Mergers
-Team mergers are allowed and can be performed by the team leader. In order to merge, the combined team must have a total submission count less than or equal to the maximum allowed as of the merge date.
+Team mergers are allowed and can be performed by the team leader. In order to merge contact the organizers.
 
 ###Team Limits
 There is no maximum team size.
