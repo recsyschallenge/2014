@@ -17,4 +17,4 @@ There is no maximum team size.
 You can update the progress of your algorithms once in a week.
 
 ###Final Paper
-Each team should submit a paper describing the algorithms that they developed for the task. Detailed information about submission can be found in the [Submission](/submissions/) page.
+Each team should submit a paper describing the algorithms that they developed for the task. More detailed information about submission can be found in the [Submission](/submissions/) page.
