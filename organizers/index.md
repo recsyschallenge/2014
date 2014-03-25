@@ -5,7 +5,7 @@ layout: default
 #Organizers
 email: info[at]recsyschallenge.com
 
-twitter: <a href="http://twitter.com/recsyschallenge.com" target="_blank">@recsyschallenge</a>
+twitter: <a href="http://twitter.com/recsyschallenge" target="_blank">@recsyschallenge</a>
 
 - **<a href="http://www.alansaid.com">Alan Said</a>** - CWI, The Netherlands  <a href="http://twitter.com/alansaid">@alansaid</a> 
 - **<a href="http://www.wica.intec.ugent.be/members/simon-dooms">Simon Dooms</a>** - Ghent University <a href="http://twitter.com/sidooms">@sidooms</a> 
