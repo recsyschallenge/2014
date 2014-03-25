@@ -6,7 +6,7 @@ layout: default
 
 <div class="well jumbotron">
     <h2>RecSys challenge 2014: User Engagement as Evaluation</h2>
-        <p><img src="http://recsys.acm.org/wp-content/uploads/2013/10/Silicon-Valley-1000x180.png" /></p>
+        <p><img src="https://farm8.staticflickr.com/7143/13404616053_222e051df8_o.jpg" /></p>
         <p class="lead">We are pleased to announce the 2014 RecSys Challenge in association with ACM RecSys 2014 Conference. The theme of this year's challenge is evaluation based on user engagement. </p>
          <p><a class="btn btn-lg btn-success" href="https://docs.google.com/forms/d/1U2MZY2brVtDLrxG_dYTzxxtL53kNxHTVqqBXS90PJYU/viewform" role="button">Register!</a></p>
 </div>
