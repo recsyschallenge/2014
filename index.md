@@ -28,7 +28,7 @@ A more detailed description of the challenge can be found in the [Challenge](/ch
 </ul>
 
 #Workshop
-The RecSys challenge workshop will be held during the <a href="http://recsys.acm.org/recsys14/">ACM RecSys 2014</a> at Foster City, Silicon Valley, USA, 6th-10th October 2014. Participants are expexted to submit a paper detailing their results and findings. The winners of the challenge will be announced at the RecSys conference.
+The RecSys challenge workshop will be held during the <a href="http://recsys.acm.org/recsys14/">ACM RecSys 2014</a> at Foster City, Silicon Valley, USA, 6th-10th October 2014. Participants are expected to submit a paper detailing their results and findings. The winners of the challenge will be announced at the RecSys conference.
 
 
 
