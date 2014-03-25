@@ -23,7 +23,7 @@ A more detailed description of the challenge can be found in the [Challenge](/ch
     <li>Data made available: 24 March, 2014</li>
     <li>Deadline for paper submission: 14 August, 2014</li>
     <li>Notification of acceptance: 1 September, 2014</li>
-    <li>Deadline for submitting runs for the challengs: 22 September</li>
+    <li>Deadline for submitting runs for the challenge: 22 September</li>
     <li>Winners announced: RecSys 2014 (6-10 October 2014)</li>
 </ul>
 
