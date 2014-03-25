@@ -6,6 +6,7 @@ layout: default
 email: info[at]recsyschallenge.com
 
 twitter: <a href="http://twitter.com/recsyschallenge.com" target="_blank">@recsyschallenge</a>
+
 - **<a href="http://www.alansaid.com">Alan Said</a>** - CWI, The Netherlands  <a href="http://twitter.com/alansaid">@alansaid</a> 
 - **<a href="http://www.wica.intec.ugent.be/members/simon-dooms">Simon Dooms</a>** - Ghent University <a href="http://twitter.com/sidooms">@sidooms</a> 
 - **<a href="http://babak-loni.com/">Babak Loni</a>** - TU Delft, The Netherlands <a href="http://twitter.com/Babak_Loni">@babak_loni</a>
