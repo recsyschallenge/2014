@@ -97,7 +97,7 @@ Some Python code to help you with the processing of the dataset. It reads the **
                 tweets.append((user_id, item_id, rating, scraping_time, json_obj))
         return tweets
 
-Here's a complete script reading the training set, _empty file and generating a solution file. Engagement is deterimend by the random generator. This approach won't win the challenge, but it might serve as an example.
+Here's a complete script reading the training set, _empty file and generating a solution file. Engagement is determined by the random generator. This approach won't win the challenge, but it might serve as an example.
 
     import json
     import random
