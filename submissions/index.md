@@ -1,5 +1,5 @@
 ---
-title: Organizers
+title: Submissions
 layout: default
 ---
 #Submission
