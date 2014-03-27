@@ -12,6 +12,8 @@ navigation:
   url: "/challenge/"
 - text: Dataset
   url: "/dataset/"
+- text: Prizes
+  url: "/prizes/"
 - text: Leaderboard
   url: "/leaderboard/"
 - text: Rules
