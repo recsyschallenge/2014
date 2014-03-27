@@ -3,7 +3,7 @@ title: Prizes
 layout: default
 ---
 #Prizes
-The top two performing teams are rewarded with a the following prizes:
+The top two performing teams are rewarded with the following prizes:
 
 First Team: 350 €
 <br/>
