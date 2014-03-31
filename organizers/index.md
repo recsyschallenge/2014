@@ -18,4 +18,4 @@ tba
 ##Acknowledgment
 Organizers would like to thank the European 7th FP project <a href="http://crowdrec.eu">CrowdRec</a> <a href="https://twitter.com/CrowdRec">@CrowdRec</a> for founding the prizes of this year's challenge.
 
-<img width="80px" height="80px" src="https://pbs.twimg.com/profile_images/378800000702850169/8a139b0bc38e9c968e1d3deafab725b0_400x400.jpeg" />
+<a href="http://crowdrec.eu"><img width="80px" height="80px" src="https://pbs.twimg.com/profile_images/378800000702850169/8a139b0bc38e9c968e1d3deafab725b0_400x400.jpeg" /></a>
