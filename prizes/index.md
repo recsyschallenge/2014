@@ -13,5 +13,5 @@ Second Team: 150 €
 </p>
 
 <p>
-The prizes are founded by the European 7th FP project CrowdRec <a href="https://twitter.com/CrowdRec">@CrowdRec</a> 
+The prizes are founded by the European 7th FP project <a href="http://crowdrec.eu">CrowdRec</a> <a href="https://twitter.com/CrowdRec">@CrowdRec</a> 
 </p>
