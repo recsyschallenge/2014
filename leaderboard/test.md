@@ -9,5 +9,5 @@ Here are the most up to date evaluation scores as reported by participants. The 
 
 Note that this leaderboard reflects the weekly progress of participants, the final evaluation in the end will be performed by the organizers (using the private evaluation dataset) and may differ from this ranking. The winners will be announced during the RecSys conference.
 
-<iframe width="800" height="600" frameBorder="0" src="https://docs.google.com/spreadsheets/d/13t5zVTf1vR5AWj6eMageFq1gzC_HgfArUWCYzRtwBQA/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="800" height="600" frameBorder="0" src="http://wicaserv5.intec.ugent.be/recsysleaderboard/leaderboard.php"></iframe>
 
