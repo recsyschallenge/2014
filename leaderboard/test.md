@@ -13,9 +13,7 @@ The nDCG@10 result as returned by the RecSyschallenge evaluator (e.g. *0.924849*
 
 #The Leaderboard
 
-Here are the most up to date evaluation scores as reported by participants. The scores are calculated by participants themselves using the provided test dataset. The used evaluation metric is nDCG (see [Challenge](/challenge/) and [Dataset](/dataset/) for more information on the evaluation procedure).
-
-Note that this leaderboard reflects the intermediate progress of participants, the final evaluation in the end will be performed by the organizers (using the private evaluation dataset) and may differ from this ranking. The winners will be announced during the RecSys conference.
+Here are the most up to date evaluation scores as reported by participants. Note that this leaderboard reflects the intermediate progress of participants, the final evaluation in the end will be performed by the organizers (using the private evaluation dataset) and may differ from this ranking. The winners will be announced during the RecSys conference.
 
 
 
