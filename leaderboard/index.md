@@ -3,7 +3,7 @@ title: Leaderboard
 layout: default
 ---
 #How to evaluate
-The final evaluation will be performed by the organizers at the end of the challenge period. Before this period however, participants can calculate their intermediate progress on the provided public test set and upload the results on the leaderboard (see below). The intermediate results can be calculated using the [RecSysChallenge Evaluator](https://github.com/recsyschallenge/RSChallengeEval/releases) (**Note**: always use the most release of the evaluator):
+The final evaluation will be performed by the organizers at the end of the challenge period. Before this period however, participants can calculate their intermediate progress on the provided public test set and upload the results on the leaderboard (see below). The intermediate results can be calculated using the [RecSysChallenge Evaluator](https://github.com/recsyschallenge/RSChallengeEval/releases) (**Note**: always use the most recent release of the evaluator):
 
     java -jar rscevaluator-0.11-jar-with-dependencies.jar test_solution.dat participant_solution.dat
 
