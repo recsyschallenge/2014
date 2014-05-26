@@ -15,7 +15,7 @@ Team mergers are allowed and can be performed by the team leader. In order to me
 There is no maximum team size.
 
 ###Submission Limits
-You can update the progress of your algorithms once in a week.
+You can update the progress of your algorithms once a week.
 
 ###Final Paper
 Each team should submit a paper describing the algorithms that they developed for the task. More detailed information about submission can be found in the [Submission](/submissions/) page.
