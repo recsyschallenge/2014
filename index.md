@@ -12,7 +12,7 @@ layout: default
 </div>
 
 #Contest
-<div style="width: 35%">
+<div style="width: 55%">
 Evaluation is a key factor to reflect the quality of a recommender system algorithm. The theme of this year’s challenge is on evaluation. Instead of the typical rating prediction task, the goal is to predict how much interaction an item would receive via Twitter. 
 The challenge is based on an extended version of the [MovieTweetings dataset](http://www.recsyswiki.com/wiki/Movietweetings), which contains tweets that are generated when users rate movies on IMDb (using the iOS app). The challenge for participants is to rank such tweets by expected user interaction, which is expressed in terms of retweet and favorite counts.
 
