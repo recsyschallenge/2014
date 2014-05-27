@@ -16,9 +16,6 @@ Evaluation is a key factor to reflect the quality of a recommender system algori
 The challenge is based on an extended version of the [MovieTweetings dataset](http://www.recsyswiki.com/wiki/Movietweetings), which contains tweets that are generated when users rate movies on IMDb (using the iOS app). The challenge for participants is to rank such tweets by expected user interaction, which is expressed in terms of retweet and favorite counts.
 
 A more detailed description of the challenge can be found in the [Challenge](/challenge/) section.
-<a class="twitter-timeline" href="https://twitter.com/recsyschallenge" data-widget-id="471263323422334978">Tweets by @recsyschallenge</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
 
 #Important dates
 <ul>
@@ -32,6 +29,9 @@ A more detailed description of the challenge can be found in the [Challenge](/ch
 
 #Workshop
 The RecSys challenge workshop will be held during the <a href="http://recsys.acm.org/recsys14/">ACM RecSys 2014</a> at Foster City, Silicon Valley, USA, 6th-10th October 2014. Participants are expected to submit a paper detailing their results and findings. The winners of the challenge will be announced at the RecSys conference.
+
+<a class="twitter-timeline" href="https://twitter.com/recsyschallenge" data-widget-id="471263323422334978">Tweets by @recsyschallenge</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 
 
