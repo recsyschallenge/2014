@@ -18,5 +18,5 @@ Here are the most up to date evaluation scores as reported by participants. Note
 
 
 <center>
-<iframe width="800" height="900" frameBorder="0" src="http://wicaserv5.intec.ugent.be/recsysleaderboard/leaderboard.php"></iframe>
+<iframe width="800" height="1000" frameBorder="0" src="http://wicaserv5.intec.ugent.be/recsysleaderboard/leaderboard.php"></iframe>
 </center>
