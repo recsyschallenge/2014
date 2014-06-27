@@ -16,7 +16,7 @@ twitter: <a href="http://twitter.com/recsyschallenge" target="_blank">@recsyscha
 tba
 
 ##Acknowledgment
-Organizers would like to thank the European 7th FP project <a href="http://crowdrec.eu">CrowdRec</a> <a href="https://twitter.com/CrowdRec">@CrowdRec</a> for founding the prizes of this year's challenge.
+Organizers would like to thank the European 7th FP project <a href="http://crowdrec.eu">CrowdRec</a> <a href="https://twitter.com/CrowdRec">@CrowdRec</a> for supporting the 2014 RecSys Challenge.
 
 
 ![CrowdRec](../img/crowdrec.png)
