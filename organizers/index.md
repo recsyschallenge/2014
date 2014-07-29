@@ -19,6 +19,7 @@ twitter: <a href="http://twitter.com/recsyschallenge" target="_blank">@recsyscha
 - Zeno Gantner - HERE, Germany
 - Ido Guy - Yahoo Labs, Israel
 - Kris Jack - Mendeley, England
+- Marius Kaminskas - University College Cork, Ireland
 - Alexandros Karatzoglou - Telefonica R&D, Spain
 - George Karypis - University of Minnesota, USA
 - Bart Knijnenburg - UC Irvine, USA
