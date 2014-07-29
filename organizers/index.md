@@ -13,23 +13,23 @@ twitter: <a href="http://twitter.com/recsyschallenge" target="_blank">@recsyscha
 - **<a href="http://www.tmit.bme.hu/tikk.domonkos">Domonkos Tikk</a>** - Gravity R&D, Hungary <a href="http://twitter.com/domonkostikk">@domonkostikk</a> 
 
 ##Program Committee
-- **Panagiotis Adamopoulos - NYU, USA
-- **Alejandro Bellogín - Universidad Autónoma de Madrid, Spain
-- **Iván Cantador - Universidad Autónoma de Madrid, Spain
-- **Zeno Gantner - HERE, Germany
-- **Ido Guy - Yahoo Labs, Israel
-- **Kris Jack - Mendeley, England
-- **Alexandros Karatzoglou - Telefonica R&D, Spain
-- **George Karypis - University of Minnesota, USA
-- **Bart Knijnenburg - UC Irvine, USA
-- **Martha Larson - TU-Delft, The Netherlands
-- **Denis Parra - Pontificia Universidad Católica de Chile, Chile
-- **Daniele Quercia - Yahoo Labs, Spain
-- **Yue Shi - Yahoo Labs, USA
-- **Harald Steck - Netflix, USA
-- **Marko Tkalcic - JKU, Austria
-- **Markus Zanker - Alpen-Adria-Universität Klagenfurt, Austria
-(to be extended)
+- Panagiotis Adamopoulos - NYU, USA
+- Alejandro Bellogín - Universidad Autónoma de Madrid, Spain
+- Iván Cantador - Universidad Autónoma de Madrid, Spain
+- Zeno Gantner - HERE, Germany
+- Ido Guy - Yahoo Labs, Israel
+- Kris Jack - Mendeley, England
+- Alexandros Karatzoglou - Telefonica R&D, Spain
+- George Karypis - University of Minnesota, USA
+- Bart Knijnenburg - UC Irvine, USA
+- Martha Larson - TU-Delft, The Netherlands
+- Denis Parra - Pontificia Universidad Católica de Chile, Chile
+- Daniele Quercia - Yahoo Labs, Spain
+- Yue Shi - Yahoo Labs, USA
+- Harald Steck - Netflix, USA
+- Marko Tkalcic - JKU, Austria
+- Markus Zanker - Alpen-Adria-Universität Klagenfurt, Austria
+- (to be extended)
 
 ##Acknowledgment
 Organizers would like to thank the European 7th FP project <a href="http://crowdrec.eu">CrowdRec</a> <a href="https://twitter.com/CrowdRec">@CrowdRec</a> for supporting the 2014 RecSys Challenge.
