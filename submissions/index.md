@@ -22,7 +22,7 @@ The papers will be evaluated for their originality, contribution significance, s
 
 
 #Paper format
-We accept short papers (4 pages) and long papers (6 pages). Your paper should be written in the form of a scientific report, including motivation and details on your approach. All papers will be reviewed by the RecSys Challenge programme committee for originality, contribution significance, and overall quality. Papers should be submitted as PDF files throught the EasyChair submission system.
+We accept short papers (4 pages) and long papers (6 pages). Your paper should be written in the form of a scientific report, including motivation and details on your approach. All papers will be reviewed by the RecSys Challenge programme committee for originality, contribution significance, and overall quality. Papers should be submitted as PDF files through the EasyChair submission system.
 
 #Publication and Presentation
 Papers will be published in an online repository (either CEUR-WS or ACM DL). Selected papers will be invited to give oral presentations at the challenge workshop, the remaining will be invited to present their work in the form of posters.
