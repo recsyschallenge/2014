@@ -29,3 +29,4 @@ Papers will be published in an online repository (either CEUR-WS or ACM DL). Sel
 
 #Important!
 <b>Note that you must submit a paper in order to qualify as a full participant of the challenge</b>, i.e. participating teams that do not submit a paper will not be regarded as participants. Participating teams without a paper submission will be removed from the leaderboard.  
+Similarly, if you submit a paper without having entered your results on the leaderboard your paper will be disregarded.
