@@ -26,6 +26,7 @@ twitter: <a href="http://twitter.com/recsyschallenge" target="_blank">@recsyscha
 - Martha Larson - TU-Delft, The Netherlands
 - Denis Parra - Pontificia Universidad Católica de Chile, Chile
 - Daniele Quercia - Yahoo Labs, Spain
+- Lior Rokach - Ben-Gurion University, Israel
 - Yue Shi - Yahoo Labs, USA
 - Harald Steck - Netflix, USA
 - Marko Tkalcic - JKU, Austria
