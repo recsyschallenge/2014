@@ -18,14 +18,12 @@ The challenge is based on an extended version of the [MovieTweetings dataset](ht
 A more detailed description of the challenge can be found in the [Challenge](/challenge/) section.
 
 #Important dates
-<ul>
-    <li>First call for participation: March, 2014</li>
-    <li>Data made available: 24 March, 2014</li>
-    <li>Deadline for paper submission: 14 August, 2014</li>
-    <li>Notification of acceptance: 1 September, 2014</li>
-    <li>Deadline for submitting runs for the challenge: 22 September, 2014</li>
-    <li>Winners announced: RecSys 2014 (6-10 October 2014)</li>
-</ul>
+* First call for participation: March, 2014
+* Data made available: 24 March, 2014
+* Deadline for paper submission: 14 August, 2014
+* Notification of acceptance: 1 September, 2014
+* Deadline for submitting runs for the challenge: 22 September, 2014
+* Winners announced: RecSys 2014 (6-10 October 2014)
 
 #Workshop
 The RecSys challenge workshop will be held during the <a href="http://recsys.acm.org/recsys14/">ACM RecSys 2014</a> at Foster City, Silicon Valley, USA, 6th-10th October 2014. Participants are expected to submit a paper detailing their results and findings. The winners of the challenge will be announced at the RecSys conference.
