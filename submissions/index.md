@@ -6,7 +6,7 @@ layout: default
 All paper submissions and reviews will be handled electronically in PDF format. Recommender Systems Challenge 2014 submissions should be prepared according to the standard ACM SIG proceedings format. For your convenience, we provide paper templates in Microsoft Word and LaTeX:
 
 - <a href="http://www.acm.org/sigs/publications/pubform.doc">Microsoft Word document template</a>
-- <a href="http://www.acm.org/sigs/publications/sig-alternate.cls">LaTeX style file</a> and a <a href="http://www.acm.org/sigs/publications/sig-alternate.tex">sample document</a> showing how to use it
+- <a href="http://www.sheridanprinting.com/typedept/sig-alternate-2013.cls">LaTeX style file</a> and a <a href="http://www.acm.org/sigs/publications/sig-alternate.tex">sample document</a> showing how to use it
 - <a href="http://www.acm.org/sigs/publications/sig-alternate.pdf">PDF sample document</a> showing what your submission should look like
 
 The RecSysChallenge will <b>not</b> use double-blind review, so please include authors’ names and affiliations on your submission.
