@@ -23,6 +23,7 @@ A more detailed description of the challenge can be found in the [Challenge](/ch
 * Deadline for paper submission: ~~14~~ 17 August, 2014, PST
 * Notification of acceptance: 1 September, 2014
 * Deadline for submitting runs for the challenge: 22 September, 2014
+* Deadline for submitting camera-ready paper: 22 September, 2014
 * Winners announced: RecSys 2014 (6-10 October 2014)
 
 #Workshop
