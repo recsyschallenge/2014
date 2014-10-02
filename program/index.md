@@ -8,13 +8,13 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
 
 ##Schedule
 
-|Time | Title | Authors |
-|---|
-9:00-9:15| Welcome | The Oganizers
+Time | Title | Authors 
 ---
-9:15-9:30| An Analysis of the 2014 RecSys Challenge | Daniele Loiacono, Andreas Lommatzsch, _Roberto Turrin_
+9:00-9:15 | Welcome | The Oganizers
 ---
-9:30-9:45 |Utilizing Voting Systems for Ranking User Tweets | Ahmad Abdel-Hafaz, Quoc Viet Phung, Yue Xu
+9:15-9:30 | An Analysis of the 2014 RecSys Challenge | Daniele Loiacono, Andreas Lommatzsch, _Roberto Turrin_
+---
+9:30-9:45 | Utilizing Voting Systems for Ranking User Tweets | Ahmad Abdel-Hafaz, Quoc Viet Phung, Yue Xu
 ---
 9:45-10:00 | Regression and Learning to Rank Aggregation for User Engagement Evaluation | Hamed Zamani, Azadeh Shakery, Pooya Moradi
 ---
@@ -22,13 +22,13 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
 ---
 10:15-10:30 | RecSys Challenge 2014: An Ensemble of Binary Classifiers and Matrix Factorization | Róbert Pálovics, Andras A. Benczur, Frederick Ayala-Gómez, Levente Kocsis, Bálint Daróczy, Balázs Csikota, Dominic Spadacene
 ---
-10:30-11:00| Coffee break ||
+10:30-11:00| Coffee break | |
 ---
 11:00-11:15 | User Engagement as Evaluation: A Ranking or a Regression Problem | Frédéric Guillou, Romaric Gaudel, Jérémie Mary, Philippe Preux|
 ---
-11:15-12:00 | Poster Session ||
+11:15-12:00 | Poster Session | |
 ---
-12:00-12:30 | Discussion and Closing remarks||
+12:00-12:30 | Discussion and Closing remarks| |
 ---
 
 ##Accepted Posters
