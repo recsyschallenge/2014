@@ -85,7 +85,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
       </tr>   
        <tr>
         <td>A Recommender System for Predicting User Engagement in Twitter </td>
-        <td>Jonathas Magalhães, Rubens Pessoa, Cleyton Souza, Evandro Costa, Joseana Fechine </td>
+        <td><i><b>Jonathas Magalhães</b></i>, Rubens Pessoa, Cleyton Souza, Evandro Costa, Joseana Fechine </td>
       </tr>  
        <tr>
         <td>Recommender System Based on Modularity</td>
