@@ -38,7 +38,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     <tr>
         <td>10:00-10:15</td>
         <td> A Two Step Ranking Solution for Twitter User Engagement</td>
-        <td>Behnoush Abdollahi, Mahsa Badami, Gopi Chand Nutakki, Olfa Nasraoui, Wenlong Sun </td>
+        <td><i>Behnoush Abdollahi</i>, Mahsa Badami, Gopi Chand Nutakki, Olfa Nasraoui, Wenlong Sun </td>
     </tr>    
     <tr>
         <td>10:15-10:30 </td>
@@ -89,7 +89,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
       </tr>  
        <tr>
         <td>Recommender System Based on Modularity</td>
-        <td>Maria Sibaldo, Tiago de Carvalho, Ing Ren Tsang, George Cavalcanti </td>
+        <td>Maria Sibaldo, Tiago de Carvalho, <i>Ing Ren Tsang</i>, George Cavalcanti </td>
       </tr>  
        <tr>
         <td>How Popular are Your Tweets?  </td>
