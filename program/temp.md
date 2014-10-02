@@ -8,14 +8,13 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
 ##Schedule
 
 <table class="table-bordered table-striped table-condensed table-nonfluid">
-  <th>
+  
     <tr>
-        <td >Time</td>
-        <td >Title</td>
-        <td >Authors</td>
+        <th >Time</th>
+        <th >Title</th>
+        <th >Authors</th>
     </tr>
-  </th>
-  <tbody>
+  
     <tr>
         <td>9:00-9:15</td>
         <td>Welcome</td>
@@ -66,7 +65,6 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
         <td>Discussion and Closing remarks</td>
         <td> </td>
      </tr>   
-  </tbody>
 </table>
 
 
