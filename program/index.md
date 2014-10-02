@@ -93,7 +93,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
       </tr>  
        <tr>
         <td>How Popular are Your Tweets?  </td>
-        <td>Avijit Saha, Shubhranshu Shekhar, Janarthanan R and Balaraman Ravindran  </td>
+        <td><b><i>Avijit Saha</i></b>, Shubhranshu Shekhar, Janarthanan R and Balaraman Ravindran  </td>
       </tr>  
        <tr>
         <td> Online Tweet Recommendation Using Extreme Learning Machine</td>
