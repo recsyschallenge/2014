@@ -10,7 +10,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
 Time | Title | Authors 
 --- | --- | ---
 __9:00-9:15__ | Welcome | The Oganizers
-__9:15-9:30 | An Analysis of the 2014 RecSys Challenge | Daniele Loiacono, Andreas Lommatzsch, _Roberto Turrin_
+__9:15-9:30__ | An Analysis of the 2014 RecSys Challenge | Daniele Loiacono, Andreas Lommatzsch, _Roberto Turrin_
 __9:30-9:45__ | Utilizing Voting Systems for Ranking User Tweets | Ahmad Abdel-Hafaz, Quoc Viet Phung, Yue Xu
 __9:45-10:00__ | Regression and Learning to Rank Aggregation for User Engagement Evaluation | Hamed Zamani, Azadeh Shakery, Pooya Moradi
 __10:00-10:15__ | A Two Step Ranking Solution for Twitter User Engagement | Behnoush Abdollahi, Mahsa Badami, Gopi Chand Nutakki, Olfa Nasraoui, Wenlong Sun 
