@@ -7,14 +7,14 @@ layout: default
 The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday October 10th.
 ##Schedule
 
-<table class="table table-bordered table-striped table-condensed table-nonfluid">
-  <thead>
+<table class="table-bordered table-striped table-condensed table-nonfluid">
+  <th>
     <tr>
-        <td class="col-md-3">Time</td>
-        <td class="col-md-4">Title</td>
-        <td class="col-md-5">Authors</td>
+        <td >Time</td>
+        <td >Title</td>
+        <td >Authors</td>
     </tr>
-  </thead>
+  </th>
   <tbody>
     <tr>
         <td>9:00-9:15</td>
