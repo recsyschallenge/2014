@@ -22,8 +22,8 @@ __12:00-12:30__ | Discussion and Closing remarks
 
 ##Accepted Posters
 
-Title|Authors
----|---
+Title | Authors
+--- | ---
 Predicting User Engagement in Twitter with Collaborative Ranking| Ernesto Diaz-Aviles, Hoang Thanh Lam, Fabio Pinelli, Stefano Braghin, Yiannis Gkoufas, Michele Berlingerio, Francesco Calabrese
 Exploring Tweet Engagement in the RecSys 2014 Data Challenge|Jacek Wasilewski, Neil Hurley
 A Recommender System for Predicting User Engagement in Twitter|Jonathas Magalhães, Rubens Pessoa, Cleyton Souza, Evandro Costa, Joseana Fechine
@@ -31,3 +31,9 @@ Recommender System Based on Modularity| Maria Sibaldo, Tiago de Carvalho, Ing Re
 How Popular are Your Tweets? | Avijit Saha, Shubhranshu Shekhar, Janarthanan R and Balaraman Ravindran 
 Online Tweet Recommendation Using Extreme Learning Machine| Punam Bedi, Sumit Agarwal, Pooja Vashisth, Samarth Sharma, Tushar Aggarwal
 
+##Additional Posters
+
+Title | Authors
+---|---
+Hybrid Biased k-NN to Predict Movie Tweets Popularity | Ladislav Peska, Peter Vojtas
+Evaluating Recommender System Based On User Engagement|Ayushi Dalmia, K Santosh, Manish Gupta, Vasudeva Varma
