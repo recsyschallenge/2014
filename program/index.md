@@ -77,7 +77,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     </tr>
       <tr>
         <td>Predicting User Engagement in Twitter with Collaborative Ranking</td>
-        <td>Ernesto Diaz-Aviles, Hoang Thanh Lam, Fabio Pinelli, Stefano Braghin, Yiannis Gkoufas, Michele Berlingerio, Francesco Calabrese</td>
+        <td><i><b>Ernesto Diaz-Aviles</b></i>, Hoang Thanh Lam, Fabio Pinelli, Stefano Braghin, Yiannis Gkoufas, Michele Berlingerio, Francesco Calabrese</td>
       </tr>   
       <tr>
         <td>Exploring Tweet Engagement in the RecSys 2014 Data Challenge </td>
