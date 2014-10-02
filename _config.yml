@@ -4,10 +4,8 @@ description: "The recsyschallenge description"
 url: "http://localhost:4000"
 
 permalink: pretty
+markdown: rdiscount
 
-markdown: redcarpet
-redcarpet:
- extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
 navigation:
 - text: Home
