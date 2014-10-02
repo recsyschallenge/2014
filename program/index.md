@@ -53,7 +53,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     <tr>
         <td>11:00-11:15 </td>
         <td>User Engagement as Evaluation: A Ranking or a Regression Problem </td>
-        <td> Frédéric Guillou, Romaric Gaudel, Jérémie Mary, Philippe Preux </td>
+        <td> <i><b>Frédéric Guillou</b></i>, Romaric Gaudel, Jérémie Mary, Philippe Preux </td>
     </tr>    
         <tr>
         <td> 11:15-12:00 </td>
