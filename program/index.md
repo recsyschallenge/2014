@@ -3,9 +3,11 @@ title: Program
 layout: default
 ---
 #The program
+
 The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday October 10th.
 
 ##Schedule
+
 |Time | Title | Authors |
 |---|
 9:00-9:15| Welcome | The Oganizers
@@ -30,6 +32,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
 ---
 
 ##Accepted Posters
+
 |Title|Authors|
 ---
 |Predicting User Engagement in Twitter with Collaborative Ranking| Ernesto Diaz-Aviles, Hoang Thanh Lam, Fabio Pinelli, Stefano Braghin, Yiannis Gkoufas, Michele Berlingerio, Francesco Calabrese|
