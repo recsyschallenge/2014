@@ -23,7 +23,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     <tr>
         <td>9:15-9:30</td>
         <td>An Analysis of the 2014 RecSys Challenge</td>
-        <td>Daniele Loiacono, Andreas Lommatzsch, Roberto Turrin</td>
+        <td>Daniele Loiacono, Andreas Lommatzsch, <i>Roberto Turrin</i></td>
     </tr>
     <tr>
         <td>9:30-9:45</td>
@@ -43,7 +43,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     <tr>
         <td>10:15-10:30 </td>
         <td> RecSys Challenge 2014: An Ensemble of Binary Classifiers and Matrix Factorization  </td>
-        <td> Róbert Pálovics, Andras A. Benczur, Frederick Ayala-Gómez, Levente Kocsis, Bálint Daróczy, Balázs Csikota, Dominic Spadacene</td>
+        <td> <i>Róbert Pálovics</i>, Andras A. Benczur, Frederick Ayala-Gómez, Levente Kocsis, Bálint Daróczy, Balázs Csikota, Dominic Spadacene</td>
     </tr>    
     <tr>
         <td>10:30-11:00 </td>
@@ -81,7 +81,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
       </tr>   
       <tr>
         <td>Exploring Tweet Engagement in the RecSys 2014 Data Challenge </td>
-        <td> Jacek Wasilewski, Neil Hurley</td>
+        <td> <i>Jacek Wasilewski</i>, Neil Hurley</td>
       </tr>   
        <tr>
         <td>A Recommender System for Predicting User Engagement in Twitter </td>
