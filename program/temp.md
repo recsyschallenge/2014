@@ -10,9 +10,9 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
 <table class="table table-bordered table-striped table-condensed table-nonfluid">
   <thead>
     <tr>
-        <td class="col-md-10">Time</td>
-        <td class="col-md-1">Title</td>
-        <td class="col-md-1">Authors</td>
+        <td class="col-md-5">Time</td>
+        <td class="col-md-4">Title</td>
+        <td class="col-md-3">Authors</td>
     </tr>
   </thead>
   <tbody>
