@@ -89,7 +89,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
       </tr>  
        <tr>
         <td>Recommender System Based on Modularity</td>
-        <td>Maria Sibaldo, Tiago de Carvalho, <i>Ing Ren Tsang</i>, George Cavalcanti </td>
+        <td>Maria Sibaldo, Tiago de Carvalho, <i><b>Ing Ren Tsang</b></i>, George Cavalcanti </td>
       </tr>  
        <tr>
         <td>How Popular are Your Tweets?  </td>
