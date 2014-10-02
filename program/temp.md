@@ -71,13 +71,10 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
 ##Accepted Posters
 
 <table class="table table-bordered table-striped table-condensed">
-  <thead>
     <tr>
-        <td>Title</td>
-        <td>Authors</td>
+        <th>Title</th>
+        <th>Authors</th>
     </tr>
-  </thead>
-  <tbody>
       <tr>
         <td>Predicting User Engagement in Twitter with Collaborative Ranking</td>
         <td>Ernesto Diaz-Aviles, Hoang Thanh Lam, Fabio Pinelli, Stefano Braghin, Yiannis Gkoufas, Michele Berlingerio, Francesco Calabrese</td>
@@ -102,5 +99,4 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
         <td> Online Tweet Recommendation Using Extreme Learning Machine</td>
         <td>Punam Bedi, Sumit Agarwal, Pooja Vashisth, Samarth Sharma, Tushar Aggarwal </td>
       </tr>  
-  </tbody>
 </table>
