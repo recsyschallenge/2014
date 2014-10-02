@@ -100,3 +100,20 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
         <td>Punam Bedi, Sumit Agarwal, Pooja Vashisth, Samarth Sharma, Tushar Aggarwal </td>
       </tr>  
 </table>
+
+##Additional Posters
+
+<table class="table-bordered table-striped table-condensed">
+    <tr>
+        <th>Title</th>
+        <th>Authors</th>
+    </tr>
+      <tr>
+      <td>Hybrid Biased k-NN to Predict Movie Tweets Popularity</td>
+      <td>Ladislav Peska, Peter Vojtas</td>
+      </tr>  
+       <tr>
+      <td>Evaluating Recommender System Based On User Engagement</td>
+      <td>Ayushi Dalmia, K Santosh, Manish Gupta, Vasudeva Varma</td>
+      </tr>  
+</table>
