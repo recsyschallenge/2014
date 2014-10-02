@@ -38,12 +38,12 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     <tr>
         <td>10:00-10:15</td>
         <td> A Two Step Ranking Solution for Twitter User Engagement</td>
-        <td><i>Behnoush Abdollahi</i>, Mahsa Badami, Gopi Chand Nutakki, Olfa Nasraoui, Wenlong Sun </td>
+        <td><i><b>Behnoush Abdollahi</b></i>, Mahsa Badami, Gopi Chand Nutakki, Olfa Nasraoui, Wenlong Sun </td>
     </tr>    
     <tr>
         <td>10:15-10:30 </td>
         <td> RecSys Challenge 2014: An Ensemble of Binary Classifiers and Matrix Factorization  </td>
-        <td> <i>Róbert Pálovics</i>, Andras A. Benczur, Frederick Ayala-Gómez, Levente Kocsis, Bálint Daróczy, Balázs Csikota, Dominic Spadacene</td>
+        <td> <i><b>Róbert Pálovics</b></i>, Andras A. Benczur, Frederick Ayala-Gómez, Levente Kocsis, Bálint Daróczy, Balázs Csikota, Dominic Spadacene</td>
     </tr>    
     <tr>
         <td>10:30-11:00 </td>
@@ -81,7 +81,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
       </tr>   
       <tr>
         <td>Exploring Tweet Engagement in the RecSys 2014 Data Challenge </td>
-        <td> <i>Jacek Wasilewski</i>, Neil Hurley</td>
+        <td> <i><b>Jacek Wasilewski</b></i>, Neil Hurley</td>
       </tr>   
        <tr>
         <td>A Recommender System for Predicting User Engagement in Twitter </td>
@@ -110,7 +110,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     </tr>
       <tr>
       <td>Hybrid Biased k-NN to Predict Movie Tweets Popularity</td>
-      <td>Ladislav Peska, Peter Vojtas</td>
+      <td><i><b>Ladislav Peska</b></i>, Peter Vojtas</td>
       </tr>  
        <tr>
       <td>Evaluating Recommender System Based On User Engagement</td>
