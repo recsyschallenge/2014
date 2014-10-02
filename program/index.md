@@ -68,7 +68,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
 </table>
 
 
-##Accepted Posters
+##Posters
 
 <table class="table-bordered table-striped table-condensed">
     <tr>
@@ -101,7 +101,6 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
       </tr>  
 </table>
 
-##Additional Posters
 
 <table class="table-bordered table-striped table-condensed">
     <tr>
