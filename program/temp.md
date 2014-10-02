@@ -7,7 +7,7 @@ layout: default
 The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday October 10th.
 ##Schedule
 
-<table class="table table-bordered table-striped table-condensed">
+<table class="table table-bordered table-striped table-condensed table-nonfluid">
   <thead>
     <tr>
         <td>Time</td>
