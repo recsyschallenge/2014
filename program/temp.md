@@ -70,7 +70,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
 
 ##Accepted Posters
 
-<table class="table table-bordered table-striped table-condensed">
+<table class="table-bordered table-striped table-condensed">
     <tr>
         <th>Title</th>
         <th>Authors</th>
