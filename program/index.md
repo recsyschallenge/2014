@@ -58,12 +58,12 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
         <tr>
         <td> 11:15-11:30 </td>
         <td> Ranking approach to RecSys Challenge </td>
-        <td> </td>
-    </tr>   
+        <td>Pallavi Singh, <b><i>Gyanit Singh</i></b>, Anurag Bhardwaj</td>
+        </tr>   
         <tr>
         <td> 11:30-12:15 </td>
         <td>Poster Session </td>
-        <td>Pallavi Singh, <b><i>Gyanit Singh</i></b>, Anurag Bhardwaj</td>
+        <td></td>
     </tr>   
     
     
