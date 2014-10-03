@@ -56,12 +56,19 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
         <td> <i><b>Frédéric Guillou</b></i>, Romaric Gaudel, Jérémie Mary, Philippe Preux </td>
     </tr>    
         <tr>
-        <td> 11:15-12:00 </td>
-        <td>Poster Session </td>
+        <td> 11:15-11:30 </td>
+        <td> Ranking approach to RecSys Challenge </td>
         <td> </td>
     </tr>   
+        <tr>
+        <td> 11:30-12:15 </td>
+        <td>Poster Session </td>
+        <td>Pallavi Singh, <b><i>Gyanit Singh</i></b>, Anurag Bhardwaj</td>
+    </tr>   
+    
+    
     <tr>
-        <td>12:00-12:30  </td>
+        <td>12:15-12:30  </td>
         <td>Discussion and Closing remarks</td>
         <td> </td>
      </tr>   
