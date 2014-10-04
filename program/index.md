@@ -28,7 +28,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     <tr>
         <td>9:30-9:45</td>
         <td>Utilizing Voting Systems for Ranking User Tweets</td>
-        <td>Ahmad Abdel-Hafaz, Quoc Viet Phung, Yue Xu</td>
+        <!-- td>Ahmad Abdel-Hafaz, Quoc Viet Phung, Yue Xu</td -->
     </tr>
     <tr>
         <td>9:45-10:00</td>
