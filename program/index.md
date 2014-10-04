@@ -76,6 +76,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
 
 
 ##Posters
+Posters will also be presented during the coffee break.
 
 <table class="table-bordered table-striped table-condensed">
     <tr>
