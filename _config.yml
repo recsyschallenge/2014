@@ -10,6 +10,8 @@ markdown: rdiscount
 navigation:
 - text: Home
   url: "/"
+- text: Program
+  url: "/program/"
 - text: Challenge
   url: "/challenge/"
 - text: Dataset
