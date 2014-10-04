@@ -104,7 +104,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
       </tr>  
        <tr>
         <td> Online Tweet Recommendation Using Extreme Learning Machine</td>
-        <td>Punam Bedi, Sumit Agarwal, Pooja Vashisth, Samarth Sharma, Tushar Aggarwal </td>
+        <td>Punam Bedi, Sumit Agarwal, Pooja Vashisth, Samarth Sharma, Tushar Aggarwa. <b><i>Arun Gupta</i></b> </td>
       </tr>  
 </table>
 
