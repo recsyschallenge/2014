@@ -37,7 +37,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     </tr>
     <tr>
         <td>10:00-10:15</td>
-        <td>Regression and Learning to Rank Aggregation for User Engagement Evaluation</td>
+        <td><a href="https://www.youtube.com/watch?v=8QLOEfJHvCg" target="_blank">Regression and Learning to Rank Aggregation for User Engagement Evaluation</a></td>
         <td>Hamed Zamani, Azadeh Shakery, Pooya Moradi</td>
     </tr>    
     <tr>
