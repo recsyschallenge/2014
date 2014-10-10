@@ -32,13 +32,13 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     </tr>
     <tr>
         <td>9:45-10:00</td>
-        <td>Regression and Learning to Rank Aggregation for User Engagement Evaluation</td>
-        <td>Hamed Zamani, Azadeh Shakery, Pooya Moradi</td>
+        <td> A Two Step Ranking Solution for Twitter User Engagement</td>
+        <td><i><b>Behnoush Abdollahi</b></i>, Mahsa Badami, Gopi Chand Nutakki, Olfa Nasraoui, Wenlong Sun </td>
     </tr>
     <tr>
         <td>10:00-10:15</td>
-        <td> A Two Step Ranking Solution for Twitter User Engagement</td>
-        <td><i><b>Behnoush Abdollahi</b></i>, Mahsa Badami, Gopi Chand Nutakki, Olfa Nasraoui, Wenlong Sun </td>
+        <td>Regression and Learning to Rank Aggregation for User Engagement Evaluation</td>
+        <td>Hamed Zamani, Azadeh Shakery, Pooya Moradi</td>
     </tr>    
     <tr>
         <td>10:15-10:30 </td>
