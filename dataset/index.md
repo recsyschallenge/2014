@@ -8,7 +8,7 @@ The dataset is an extended version of the [MovieTweetings dataset](http://www.re
 
 In its original form MovieTweetings contains only user ids, item ids, ratings and timestamps similar to the well-known MovieLens dataset. For this challenge however, all of the metadata of the tweets (as provided by the [Twitter API](https://dev.twitter.com/docs/api/1.1/get/statuses/show/%3Aid)) is provided, allowing us to focus on the *engagement* of the ratings in the form of *retweet* and *favorites* counts. The goal of the challenge is to rank the tweets (for each user) by engagement. 
 
-[Register](/) as participant of this challenge to obtain a download link to the dataset. 
+**Update:** The dataset is now publicly available alongside [the MovieTweetings dataset on GitHub](https://github.com/sidooms/MovieTweetings).
 
 #Statistics
 
