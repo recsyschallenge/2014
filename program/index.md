@@ -107,16 +107,10 @@ Posters will also be presented during the coffee break.
         <td> Online Tweet Recommendation Using Extreme Learning Machine</td>
         <td>Punam Bedi, Sumit Agarwal, Pooja Vashisth, Samarth Sharma, Tushar Aggarwa. <b><i>Arun Gupta</i></b> </td>
       </tr>  
-</table>
-
-
-<table class="table-bordered table-striped table-condensed">
-    <tr>
-        <th>Title</th>
-        <th>Authors</th>
-    </tr>
       <tr>
-      <td>Hybrid Biased k-NN to Predict Movie Tweets Popularity</td>
-      <td><i><b>Ladislav Peska</b></i>, Peter Vojtas</td>
+        <td>Hybrid Biased k-NN to Predict Movie Tweets Popularity</td>
+        <td><i><b>Ladislav Peska</b></i>, Peter Vojtas</td>
       </tr>  
 </table>
+
+
