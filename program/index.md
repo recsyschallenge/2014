@@ -22,7 +22,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     </tr>
     <tr>
         <td>9:15-9:30</td>
-        <td>An Analysis of the 2014 RecSys Challenge</td>
+        <td>An Analysis of the 2014 RecSys Challenge [(slides)](http://www.slideshare.net/robertoturrin/turrin-rec-syschallengepresentationrecsys2014)</td>
         <td>Daniele Loiacono, Andreas Lommatzsch, <i><b>Roberto Turrin</b></i></td>
     </tr>
     <tr>
