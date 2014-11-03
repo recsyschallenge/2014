@@ -17,7 +17,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
   
     <tr>
         <td>9:00-9:15</td>
-        <td>Welcome</td>
+        <td>Welcome <a href='http://www.slideshare.net/simondooms/rec-syschallenge2014intro'> (slides) </a></td>
         <td>The Organizers</td>
     </tr>
     <tr>
