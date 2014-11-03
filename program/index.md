@@ -52,7 +52,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     </tr>    
     <tr>
         <td>11:00-11:15 </td>
-        <td><b>Team Inria Sequel:</b>User Engagement as Evaluation: A Ranking or a Regression Problem <a href='http://www.slideshare.net/Bad_astronaut/presentation-recsys'> (slides) </a></td>
+        <td>Team Inria Sequel: User Engagement as Evaluation: A Ranking or a Regression Problem <a href='http://www.slideshare.net/Bad_astronaut/presentation-recsys'> (slides) </a></td>
         <td> <i><b>Frédéric Guillou</b></i>, Romaric Gaudel, Jérémie Mary, Philippe Preux </td>
     </tr>    
         <tr>
