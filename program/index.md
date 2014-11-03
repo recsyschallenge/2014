@@ -27,22 +27,22 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     </tr>
     <tr>
         <td>9:30-9:45</td>
-        <td><a href="https://www.youtube.com/watch?v=amrPijBqgGY" target="_blank">Utilizing Voting Systems for Ranking User Tweets</a></td>
+        <td>Team QUTrs: <a href="https://www.youtube.com/watch?v=amrPijBqgGY" target="_blank">Utilizing Voting Systems for Ranking User Tweets</a></td>
         <td>Ahmad Abdel-Hafaz, Quoc Viet Phung, Yue Xu</td>
     </tr>
     <tr>
         <td>9:45-10:00</td>
-        <td> A Two Step Ranking Solution for Twitter User Engagement</td>
+        <td>Team PILOTS: A Two Step Ranking Solution for Twitter User Engagement</td>
         <td><i><b>Behnoush Abdollahi</b></i>, Mahsa Badami, Gopi Chand Nutakki, Olfa Nasraoui, Wenlong Sun </td>
     </tr>
     <tr>
         <td>10:00-10:15</td>
-        <td><a href="https://www.youtube.com/watch?v=8QLOEfJHvCg" target="_blank">Regression and Learning to Rank Aggregation for User Engagement Evaluation</a></td>
+        <td>Team UT-IIS: <a href="https://www.youtube.com/watch?v=8QLOEfJHvCg" target="_blank">Regression and Learning to Rank Aggregation for User Engagement Evaluation</a></td>
         <td>Hamed Zamani, Azadeh Shakery, Pooya Moradi</td>
     </tr>    
     <tr>
         <td>10:15-10:30 </td>
-        <td> RecSys Challenge 2014: An Ensemble of Binary Classifiers and Matrix Factorization  </td>
+        <td>Team BenHuns: RecSys Challenge 2014: An Ensemble of Binary Classifiers and Matrix Factorization  </td>
         <td> <i><b>Róbert Pálovics</b></i>, Andras A. Benczur, Frederick Ayala-Gómez, Levente Kocsis, Bálint Daróczy, Balázs Csikota, Dominic Spadacene</td>
     </tr>    
     <tr>
@@ -84,31 +84,31 @@ Posters will also be presented during the coffee break.
         <th>Authors</th>
     </tr>
       <tr>
-        <td>Predicting User Engagement in Twitter with Collaborative Ranking <a href='http://www.slideshare.net/bluebalamx/2014-recsys-challenge6suddiazavilespostera4'> (poster) </a></td>
+        <td>Team SUD: Predicting User Engagement in Twitter with Collaborative Ranking <a href='http://www.slideshare.net/bluebalamx/2014-recsys-challenge6suddiazavilespostera4'> (poster) </a></td>
         <td><i><b>Ernesto Diaz-Aviles</b></i>, Hoang Thanh Lam, Fabio Pinelli, Stefano Braghin, Yiannis Gkoufas, Michele Berlingerio, Francesco Calabrese</td>
       </tr>   
       <tr>
-        <td>Exploring Tweet Engagement in the RecSys 2014 Data Challenge <a href='http://www.slideshare.net/JacekWasilewski1/rec-sys2014challengeworkshop'> (poster)</a></td>
+        <td>Team UCD: Exploring Tweet Engagement in the RecSys 2014 Data Challenge <a href='http://www.slideshare.net/JacekWasilewski1/rec-sys2014challengeworkshop'> (poster)</a></td>
         <td> <i><b>Jacek Wasilewski</b></i>, Neil Hurley</td>
       </tr>   
        <tr>
-        <td>A Recommender System for Predicting User Engagement in Twitter </td>
+        <td>Team TIPS: A Recommender System for Predicting User Engagement in Twitter </td>
         <td><i><b>Jonathas Magalhães</b></i>, Rubens Pessoa, Cleyton Souza, Evandro Costa, Joseana Fechine </td>
       </tr>  
        <tr>
-        <td>Recommender System Based on Modularity <a href='http://www.slideshare.net/inden/poster-maria'> (poster) </a></td>
+        <td>Team Pilgrims: Recommender System Based on Modularity <a href='http://www.slideshare.net/inden/poster-maria'> (poster) </a></td>
         <td>Maria Sibaldo, Tiago de Carvalho, <i><b>Ing Ren Tsang</b></i>, George Cavalcanti </td>
       </tr>  
        <tr>
-        <td>How Popular are Your Tweets?  </td>
+        <td>Team IITM: How Popular are Your Tweets?  </td>
         <td><b><i>Avijit Saha</i></b>, Shubhranshu Shekhar, Janarthanan R and Balaraman Ravindran  </td>
       </tr>  
        <tr>
-        <td> Online Tweet Recommendation Using Extreme Learning Machine</td>
+        <td>Team Punam's Five: Online Tweet Recommendation Using Extreme Learning Machine</td>
         <td>Punam Bedi, Sumit Agarwal, Pooja Vashisth, Samarth Sharma, Tushar Aggarwa. <b><i>Arun Gupta</i></b> </td>
       </tr>  
       <tr>
-        <td>Hybrid Biased k-NN to Predict Movie Tweets Popularity <a href='http://www.slideshare.net/LadislavPeska/recsys-challenge-2014'> (poster) </a></td>
+        <td>Team SemWexMFF: Hybrid Biased k-NN to Predict Movie Tweets Popularity <a href='http://www.slideshare.net/LadislavPeska/recsys-challenge-2014'> (poster) </a></td>
         <td><i><b>Ladislav Peska</b></i>, Peter Vojtas</td>
       </tr>  
 </table>
