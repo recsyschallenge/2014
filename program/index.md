@@ -52,7 +52,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     </tr>    
     <tr>
         <td>11:00-11:15 </td>
-        <td>User Engagement as Evaluation: A Ranking or a Regression Problem </td>
+        <td>User Engagement as Evaluation: A Ranking or a Regression Problem <a href='http://www.slideshare.net/Bad_astronaut/presentation-recsys'> (slides) </a></td>
         <td> <i><b>Frédéric Guillou</b></i>, Romaric Gaudel, Jérémie Mary, Philippe Preux </td>
     </tr>    
         <tr>
@@ -84,11 +84,11 @@ Posters will also be presented during the coffee break.
         <th>Authors</th>
     </tr>
       <tr>
-        <td>Predicting User Engagement in Twitter with Collaborative Ranking</td>
+        <td>Predicting User Engagement in Twitter with Collaborative Ranking <a href='http://www.slideshare.net/bluebalamx/2014-recsys-challenge6suddiazavilespostera4'> (poster) </a></td>
         <td><i><b>Ernesto Diaz-Aviles</b></i>, Hoang Thanh Lam, Fabio Pinelli, Stefano Braghin, Yiannis Gkoufas, Michele Berlingerio, Francesco Calabrese</td>
       </tr>   
       <tr>
-        <td>Exploring Tweet Engagement in the RecSys 2014 Data Challenge </td>
+        <td>Exploring Tweet Engagement in the RecSys 2014 Data Challenge <a href='http://www.slideshare.net/JacekWasilewski1/rec-sys2014challengeworkshop'> (poster)</a></td>
         <td> <i><b>Jacek Wasilewski</b></i>, Neil Hurley</td>
       </tr>   
        <tr>
@@ -96,7 +96,7 @@ Posters will also be presented during the coffee break.
         <td><i><b>Jonathas Magalhães</b></i>, Rubens Pessoa, Cleyton Souza, Evandro Costa, Joseana Fechine </td>
       </tr>  
        <tr>
-        <td>Recommender System Based on Modularity</td>
+        <td>Recommender System Based on Modularity <a href='http://www.slideshare.net/inden/poster-maria'> (poster) </a></td>
         <td>Maria Sibaldo, Tiago de Carvalho, <i><b>Ing Ren Tsang</b></i>, George Cavalcanti </td>
       </tr>  
        <tr>
@@ -108,7 +108,7 @@ Posters will also be presented during the coffee break.
         <td>Punam Bedi, Sumit Agarwal, Pooja Vashisth, Samarth Sharma, Tushar Aggarwa. <b><i>Arun Gupta</i></b> </td>
       </tr>  
       <tr>
-        <td>Hybrid Biased k-NN to Predict Movie Tweets Popularity</td>
+        <td>Hybrid Biased k-NN to Predict Movie Tweets Popularity <a href='http://www.slideshare.net/LadislavPeska/recsys-challenge-2014'> (poster) </a></td>
         <td><i><b>Ladislav Peska</b></i>, Peter Vojtas</td>
       </tr>  
 </table>
