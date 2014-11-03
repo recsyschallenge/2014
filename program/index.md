@@ -57,7 +57,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     </tr>    
         <tr>
         <td> 11:15-11:30 </td>
-        <td> Ranking approach to RecSys Challenge </td>
+        <td>Team The Crone: Ranking approach to RecSys Challenge </td>
         <td>Pallavi Singh, <b><i>Gyanit Singh</i></b>, Anurag Bhardwaj</td>
         </tr>   
         <tr>
