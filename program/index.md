@@ -32,7 +32,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     </tr>
     <tr>
         <td>9:45-10:00</td>
-        <td>Team PILOTS: A Two Step Ranking Solution for Twitter User Engagement</td>
+        <td>Team PILOTS: A Two Step Ranking Solution for Twitter User Engagement <a href='http://www.slideshare.net/BehnoushAbdollahi/recsys-slidesv2'> (slides)</a></td>
         <td><i><b>Behnoush Abdollahi</b></i>, Mahsa Badami, Gopi Chand Nutakki, Olfa Nasraoui, Wenlong Sun </td>
     </tr>
     <tr>
@@ -42,7 +42,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     </tr>    
     <tr>
         <td>10:15-10:30 </td>
-        <td>Team BenHuns: RecSys Challenge 2014: An Ensemble of Binary Classifiers and Matrix Factorization  </td>
+        <td>Team BenHuns: RecSys Challenge 2014: An Ensemble of Binary Classifiers and Matrix Factorization <a href="http://info.ilab.sztaki.hu/~rpalovics/challenge-prez.html"> (slides)</a></td>
         <td> <i><b>Róbert Pálovics</b></i>, Andras A. Benczur, Frederick Ayala-Gómez, Levente Kocsis, Bálint Daróczy, Balázs Csikota, Dominic Spadacene</td>
     </tr>    
     <tr>
