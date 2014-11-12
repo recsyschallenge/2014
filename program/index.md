@@ -92,7 +92,7 @@ Posters will also be presented during the coffee break.
         <td> <i><b>Jacek Wasilewski</b></i>, Neil Hurley</td>
       </tr>   
        <tr>
-        <td>Team TIPS: A Recommender System for Predicting User Engagement in Twitter </td>
+        <td>Team TIPS: A Recommender System for Predicting User Engagement in Twitter <a href='http://pt.slideshare.net/jonmagal/recsys-2014'> (poster) </a></td>
         <td><i><b>Jonathas Magalhães</b></i>, Rubens Pessoa, Cleyton Souza, Evandro Costa, Joseana Fechine </td>
       </tr>  
        <tr>
