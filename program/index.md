@@ -84,31 +84,31 @@ Posters will also be presented during the coffee break.
         <th>Authors</th>
     </tr>
       <tr>
-        <td>Team SUD: Predicting User Engagement in Twitter with Collaborative Ranking <a href='http://www.slideshare.net/bluebalamx/2014-recsys-challenge6suddiazavilespostera4'> (poster) </a></td>
+        <td>Team SUD: Predicting User Engagement in Twitter with Collaborative Ranking <a href='http://www.slideshare.net/bluebalamx/2014-recsys-challenge6suddiazavilespostera4'> (poster) </a><div align='center'> <img src="../img/posters/Poster_Ernesto.jpg" alt="Poster Ernesto"></div></td>
         <td><i><b>Ernesto Diaz-Aviles</b></i>, Hoang Thanh Lam, Fabio Pinelli, Stefano Braghin, Yiannis Gkoufas, Michele Berlingerio, Francesco Calabrese</td>
       </tr>   
       <tr>
-        <td>Team UCD: Exploring Tweet Engagement in the RecSys 2014 Data Challenge <a href='http://www.slideshare.net/JacekWasilewski1/rec-sys2014challengeworkshop'> (poster)</a></td>
+        <td>Team UCD: Exploring Tweet Engagement in the RecSys 2014 Data Challenge <a href='http://www.slideshare.net/JacekWasilewski1/rec-sys2014challengeworkshop'> (poster)</a><div align='center'> <img src="../img/posters/Poster_Jacek.jpg" alt="Poster Jacek"></div></td>
         <td> <i><b>Jacek Wasilewski</b></i>, Neil Hurley</td>
       </tr>   
        <tr>
-        <td>Team TIPS: A Recommender System for Predicting User Engagement in Twitter <a href='http://pt.slideshare.net/jonmagal/recsys-2014'> (poster) </a></td>
+        <td>Team TIPS: A Recommender System for Predicting User Engagement in Twitter <a href='http://pt.slideshare.net/jonmagal/recsys-2014'> (poster) </a><div align='center'> <img src="../img/posters/Poster_Jonathas.jpg" alt="Poster Jonathas"></div></td>
         <td><i><b>Jonathas Magalhães</b></i>, Rubens Pessoa, Cleyton Souza, Evandro Costa, Joseana Fechine </td>
       </tr>  
        <tr>
-        <td>Team Pilgrims: Recommender System Based on Modularity <a href='http://www.slideshare.net/inden/poster-maria'> (poster) </a></td>
+        <td>Team Pilgrims: Recommender System Based on Modularity <a href='http://www.slideshare.net/inden/poster-maria'> (poster) </a><div align='center'> <img src="../img/posters/Poster_Ing.jpg" alt="Poster Ing"></div></td>
         <td>Maria Sibaldo, Tiago de Carvalho, <i><b>Ing Ren Tsang</b></i>, George Cavalcanti </td>
       </tr>  
        <tr>
-        <td>Team IITM: How Popular are Your Tweets?  </td>
+        <td>Team IITM: How Popular are Your Tweets?  <div align='center'> <img src="../img/posters/Poster_Avijit.jpg" alt="Poster Avijit"></div></td>
         <td><b><i>Avijit Saha</i></b>, Shubhranshu Shekhar, Janarthanan R and Balaraman Ravindran  </td>
       </tr>  
        <tr>
-        <td>Team Punam's Five: Online Tweet Recommendation Using Extreme Learning Machine</td>
+        <td>Team Punam's Five: Online Tweet Recommendation Using Extreme Learning Machine<div align='center'> </td>
         <td>Punam Bedi, Sumit Agarwal, Pooja Vashisth, Samarth Sharma, Tushar Aggarwa. <b><i>Arun Gupta</i></b> </td>
       </tr>  
       <tr>
-        <td>Team SemWexMFF: Hybrid Biased k-NN to Predict Movie Tweets Popularity <a href='http://www.slideshare.net/LadislavPeska/recsys-challenge-2014'> (poster) </a></td>
+        <td>Team SemWexMFF: Hybrid Biased k-NN to Predict Movie Tweets Popularity <a href='http://www.slideshare.net/LadislavPeska/recsys-challenge-2014'> (poster) </a><div align='center'> <img src="../img/posters/Poster_Ladislav.jpg" alt="Poster Ladislav"></div></td>
         <td><i><b>Ladislav Peska</b></i>, Peter Vojtas</td>
       </tr>  
 </table>
