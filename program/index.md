@@ -22,7 +22,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     </tr>
     <tr>
         <td>9:15-9:30</td>
-        <td>An Analysis of the 2014 RecSys Challenge <a href='http://www.slideshare.net/robertoturrin/turrin-rec-syschallengepresentationrecsys2014'> (slides)</a></td>
+        <td>An Analysis of the 2014 RecSys Challenge <a href='http://www.slideshare.net/robertoturrin/turrin-rec-syschallengepresentationrecsys2014'> (slides)</a> <div align='center'> <img src="../img/presentations/Presentation_Roberto.jpg" alt="Presentation Roberto"></div></td>
         <td>Daniele Loiacono, Andreas Lommatzsch, <i><b>Roberto Turrin</b></i></td>
     </tr>
     <tr>
@@ -32,7 +32,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     </tr>
     <tr>
         <td>9:45-10:00</td>
-        <td>Team PILOTS: A Two Step Ranking Solution for Twitter User Engagement <a href='http://www.slideshare.net/BehnoushAbdollahi/recsys-slidesv2'> (slides)</a></td>
+        <td>Team PILOTS: A Two Step Ranking Solution for Twitter User Engagement <a href='http://www.slideshare.net/BehnoushAbdollahi/recsys-slidesv2'> (slides)</a> <div align='center'> <img src="../img/presentations/Presentation_Behnoush.jpg" alt="Presentation Behnoush"></div></td>
         <td><i><b>Behnoush Abdollahi</b></i>, Mahsa Badami, Gopi Chand Nutakki, Olfa Nasraoui, Wenlong Sun </td>
     </tr>
     <tr>
@@ -42,7 +42,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     </tr>    
     <tr>
         <td>10:15-10:30 </td>
-        <td>Team BenHuns: RecSys Challenge 2014: An Ensemble of Binary Classifiers and Matrix Factorization <a href="http://info.ilab.sztaki.hu/~rpalovics/challenge-prez.html"> (slides)</a></td>
+        <td>Team BenHuns: RecSys Challenge 2014: An Ensemble of Binary Classifiers and Matrix Factorization <a href="http://info.ilab.sztaki.hu/~rpalovics/challenge-prez.html"> (slides)</a><div align='center'> <img src="../img/presentations/Presentation_Robert.jpg" alt="Presentation Róbert"></div></td>
         <td> <i><b>Róbert Pálovics</b></i>, Andras A. Benczur, Frederick Ayala-Gómez, Levente Kocsis, Bálint Daróczy, Balázs Csikota, Dominic Spadacene</td>
     </tr>    
     <tr>
@@ -52,7 +52,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     </tr>    
     <tr>
         <td>11:00-11:15 </td>
-        <td>Team Inria Sequel: User Engagement as Evaluation: A Ranking or a Regression Problem <a href='http://www.slideshare.net/Bad_astronaut/presentation-recsys'> (slides) </a></td>
+        <td>Team Inria Sequel: User Engagement as Evaluation: A Ranking or a Regression Problem <a href='http://www.slideshare.net/Bad_astronaut/presentation-recsys'> (slides) </a><div align='center'> <img src="../img/presentations/Presentation_Frederic.jpg" alt="Presentation Frédéric"></div></td>
         <td> <i><b>Frédéric Guillou</b></i>, Romaric Gaudel, Jérémie Mary, Philippe Preux </td>
     </tr>    
         <tr>
