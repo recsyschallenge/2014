@@ -4,7 +4,7 @@ layout: default
 ---
 #The program
 
-The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday October 10th.
+The RecSys Challenge workshop took place in the __Syracuse__ room on Friday October 10th. The proceedings (including all papers as presented below) are available on the <a href='http://dl.acm.org/citation.cfm?id=2668067'> ACM Digital Library</a>.
 ##Schedule
 
 <table class="table-bordered table-striped table-condensed table-nonfluid">
