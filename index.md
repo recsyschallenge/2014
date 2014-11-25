@@ -11,7 +11,7 @@ layout: default
          <p><!--<a class="btn btn-lg btn-success" href="#" role="button" disabled="disabled">Registration is closed</a>-->
           <img src="../img/Organizers_and_winners.jpg" alt="Organizers and winners" style="width:400px;height:266px"><br> <span style='font-size: 60%'>In the picture from left to right: Simon Dooms, Frédéric Guillou, Ernesto Diaz-Aviles, Alan Said, Róbert Pálovics, Domonkos Tikk.</span>
          </p>
-         <p>The final leaderboard results can be found on the <a href='/leaderboard/'>Leaderboard Page</a>, the complete dataset as used for this challenge can be found on the <a href='https://github.com/sidooms/MovieTweetings/tree/master/recsyschallenge2014'>MovieTweetings GitHub Page</a></p>
+         <p>The final leaderboard results can be found on the <a href='/leaderboard/'>Leaderboard Page</a>, the complete dataset as used for this challenge can be found on the <a href='https://github.com/sidooms/MovieTweetings/tree/master/recsyschallenge2014'>MovieTweetings GitHub Page</a>.</p>
 </div>
 
 #Contest
