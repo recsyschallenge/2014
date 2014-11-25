@@ -11,7 +11,11 @@ The **test_solution.dat** file can be found in the dataset, the **participant_so
 
 The nDCG@10 result as returned by the RecSyschallenge evaluator (e.g. *0.924849*) may then be submitted on the leaderboard below. [Contact the organizers](/organizers) if you should run into problems.
 
-#The Leaderboard
+#The Final Leaderboard
+
+<div align='center'> <img src="../img/Leaderboard.png" alt="The final leaderboard"></div>
+
+#The Weekly Leaderboard
 
 Here are the most up to date evaluation scores as reported by participants. Note that this leaderboard reflects only the intermediate progress, the final evaluation in the end will be performed by the organizers (using the private evaluation dataset) and may differ from this ranking. The winners will be announced during the RecSys conference.
 
