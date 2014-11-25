@@ -8,7 +8,9 @@ layout: default
     <h2>RecSys Challenge 2014: User Engagement as Evaluation</h2>
         <p><img src="https://farm8.staticflickr.com/7143/13404616053_222e051df8_o.jpg" /></p>
         <p class="lead">We are pleased to announce the 2014 RecSys Challenge in conjunction with <a href="http://recsys.acm.org" target="_blank">ACM RecSys 2014</a>. The theme of this year's challenge is evaluation based on user engagement. </p>
-         <p><a class="btn btn-lg btn-success" href="#" role="button" disabled="disabled">Registration is closed</a></p>
+         <p><!--<a class="btn btn-lg btn-success" href="#" role="button" disabled="disabled">Registration is closed</a>-->
+          <img src="..img/Organizers_and_winners.jpg" alt="Organizers and winners" style="width:400px;height:266px">
+         </p>
 </div>
 
 #Contest
