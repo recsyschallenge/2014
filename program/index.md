@@ -4,7 +4,7 @@ layout: default
 ---
 #The program
 
-The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday October 10th.
+The RecSys Challenge workshop took place in the __Syracuse__ room on Friday October 10th. The proceedings (including all papers as presented below) are available on the <a href='http://dl.acm.org/citation.cfm?id=2668067'> ACM Digital Library</a>.
 ##Schedule
 
 <table class="table-bordered table-striped table-condensed table-nonfluid">
@@ -22,7 +22,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     </tr>
     <tr>
         <td>9:15-9:30</td>
-        <td>An Analysis of the 2014 RecSys Challenge <a href='http://www.slideshare.net/robertoturrin/turrin-rec-syschallengepresentationrecsys2014'> (slides)</a></td>
+        <td>An Analysis of the 2014 RecSys Challenge <a href='http://www.slideshare.net/robertoturrin/turrin-rec-syschallengepresentationrecsys2014'> (slides)</a> <div align='center'> <img src="../img/presentations/Presentation_Roberto.jpg" alt="Presentation Roberto"></div></td>
         <td>Daniele Loiacono, Andreas Lommatzsch, <i><b>Roberto Turrin</b></i></td>
     </tr>
     <tr>
@@ -32,7 +32,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     </tr>
     <tr>
         <td>9:45-10:00</td>
-        <td>Team PILOTS: A Two Step Ranking Solution for Twitter User Engagement <a href='http://www.slideshare.net/BehnoushAbdollahi/recsys-slidesv2'> (slides)</a></td>
+        <td>Team PILOTS: A Two Step Ranking Solution for Twitter User Engagement <a href='http://www.slideshare.net/BehnoushAbdollahi/recsys-slidesv2'> (slides)</a> <div align='center'> <img src="../img/presentations/Presentation_Behnoush.jpg" alt="Presentation Behnoush"></div></td>
         <td><i><b>Behnoush Abdollahi</b></i>, Mahsa Badami, Gopi Chand Nutakki, Olfa Nasraoui, Wenlong Sun </td>
     </tr>
     <tr>
@@ -42,7 +42,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     </tr>    
     <tr>
         <td>10:15-10:30 </td>
-        <td>Team BenHuns: RecSys Challenge 2014: An Ensemble of Binary Classifiers and Matrix Factorization <a href="http://info.ilab.sztaki.hu/~rpalovics/challenge-prez.html"> (slides)</a></td>
+        <td>Team BenHuns: RecSys Challenge 2014: An Ensemble of Binary Classifiers and Matrix Factorization <a href="http://info.ilab.sztaki.hu/~rpalovics/challenge-prez.html"> (slides)</a><div align='center'> <img src="../img/presentations/Presentation_Robert.jpg" alt="Presentation Róbert"></div></td>
         <td> <i><b>Róbert Pálovics</b></i>, Andras A. Benczur, Frederick Ayala-Gómez, Levente Kocsis, Bálint Daróczy, Balázs Csikota, Dominic Spadacene</td>
     </tr>    
     <tr>
@@ -52,7 +52,7 @@ The RecSys Challenge workshop will take place in the __Syracuse__ room on Friday
     </tr>    
     <tr>
         <td>11:00-11:15 </td>
-        <td>Team Inria Sequel: User Engagement as Evaluation: A Ranking or a Regression Problem <a href='http://www.slideshare.net/Bad_astronaut/presentation-recsys'> (slides) </a></td>
+        <td>Team Inria Sequel: User Engagement as Evaluation: A Ranking or a Regression Problem <a href='http://www.slideshare.net/Bad_astronaut/presentation-recsys'> (slides) </a><div align='center'> <img src="../img/presentations/Presentation_Frederic.jpg" alt="Presentation Frédéric"></div></td>
         <td> <i><b>Frédéric Guillou</b></i>, Romaric Gaudel, Jérémie Mary, Philippe Preux </td>
     </tr>    
         <tr>
@@ -84,31 +84,31 @@ Posters will also be presented during the coffee break.
         <th>Authors</th>
     </tr>
       <tr>
-        <td>Team SUD: Predicting User Engagement in Twitter with Collaborative Ranking <a href='http://www.slideshare.net/bluebalamx/2014-recsys-challenge6suddiazavilespostera4'> (poster) </a></td>
+        <td>Team SUD: Predicting User Engagement in Twitter with Collaborative Ranking <a href='http://www.slideshare.net/bluebalamx/2014-recsys-challenge6suddiazavilespostera4'> (poster) </a><div align='center'> <img src="../img/posters/Poster_Ernesto.jpg" alt="Poster Ernesto"></div></td>
         <td><i><b>Ernesto Diaz-Aviles</b></i>, Hoang Thanh Lam, Fabio Pinelli, Stefano Braghin, Yiannis Gkoufas, Michele Berlingerio, Francesco Calabrese</td>
       </tr>   
       <tr>
-        <td>Team UCD: Exploring Tweet Engagement in the RecSys 2014 Data Challenge <a href='http://www.slideshare.net/JacekWasilewski1/rec-sys2014challengeworkshop'> (poster)</a></td>
+        <td>Team UCD: Exploring Tweet Engagement in the RecSys 2014 Data Challenge <a href='http://www.slideshare.net/JacekWasilewski1/rec-sys2014challengeworkshop'> (poster)</a><div align='center'> <img src="../img/posters/Poster_Jacek.jpg" alt="Poster Jacek"></div></td>
         <td> <i><b>Jacek Wasilewski</b></i>, Neil Hurley</td>
       </tr>   
        <tr>
-        <td>Team TIPS: A Recommender System for Predicting User Engagement in Twitter <a href='http://pt.slideshare.net/jonmagal/recsys-2014'> (poster) </a></td>
+        <td>Team TIPS: A Recommender System for Predicting User Engagement in Twitter <a href='http://pt.slideshare.net/jonmagal/recsys-2014'> (poster) </a><div align='center'> <img src="../img/posters/Poster_Jonathas.jpg" alt="Poster Jonathas"></div></td>
         <td><i><b>Jonathas Magalhães</b></i>, Rubens Pessoa, Cleyton Souza, Evandro Costa, Joseana Fechine </td>
       </tr>  
        <tr>
-        <td>Team Pilgrims: Recommender System Based on Modularity <a href='http://www.slideshare.net/inden/poster-maria'> (poster) </a></td>
+        <td>Team Pilgrims: Recommender System Based on Modularity <a href='http://www.slideshare.net/inden/poster-maria'> (poster) </a><div align='center'> <img src="../img/posters/Poster_Ing.jpg" alt="Poster Ing"></div></td>
         <td>Maria Sibaldo, Tiago de Carvalho, <i><b>Ing Ren Tsang</b></i>, George Cavalcanti </td>
       </tr>  
        <tr>
-        <td>Team IITM: How Popular are Your Tweets?  </td>
+        <td>Team IITM: How Popular are Your Tweets?  <div align='center'> <img src="../img/posters/Poster_Avijit.jpg" alt="Poster Avijit"></div></td>
         <td><b><i>Avijit Saha</i></b>, Shubhranshu Shekhar, Janarthanan R and Balaraman Ravindran  </td>
       </tr>  
        <tr>
-        <td>Team Punam's Five: Online Tweet Recommendation Using Extreme Learning Machine</td>
+        <td>Team Punam's Five: Online Tweet Recommendation Using Extreme Learning Machine<div align='center'> </td>
         <td>Punam Bedi, Sumit Agarwal, Pooja Vashisth, Samarth Sharma, Tushar Aggarwa. <b><i>Arun Gupta</i></b> </td>
       </tr>  
       <tr>
-        <td>Team SemWexMFF: Hybrid Biased k-NN to Predict Movie Tweets Popularity <a href='http://www.slideshare.net/LadislavPeska/recsys-challenge-2014'> (poster) </a></td>
+        <td>Team SemWexMFF: Hybrid Biased k-NN to Predict Movie Tweets Popularity <a href='http://www.slideshare.net/LadislavPeska/recsys-challenge-2014'> (poster) </a><div align='center'> <img src="../img/posters/Poster_Ladislav.jpg" alt="Poster Ladislav"></div></td>
         <td><i><b>Ladislav Peska</b></i>, Peter Vojtas</td>
       </tr>  
 </table>
