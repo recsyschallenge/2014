@@ -108,7 +108,7 @@ Posters will also be presented during the coffee break.
         <td>Punam Bedi, Sumit Agarwal, Pooja Vashisth, Samarth Sharma, Tushar Aggarwa. <b><i>Arun Gupta</i></b> </td>
       </tr>  
       <tr>
-        <td>Team SemWexMFF: Hybrid Biased k-NN to Predict Movie Tweets Popularity <a href='http://www.slideshare.net/LadislavPeska/recsys-challenge-2014'> (poster) </a><div align='center'> <img src="../img/posters/Poster_Ladislav.jpg" alt="Poster Ladislav"></div></td>
+        <td>Team SemWexMFF: Hybrid Biased k-NN to Predict Movie Tweets Popularity <a href='http://www.slideshare.net/LadislavPeska/recsys-challenge-2014'> (poster) </a> <a href='SemWexMFF_short_09-21.pdf'> (paper) </a><div align='center'> <img src="../img/posters/Poster_Ladislav.jpg" alt="Poster Ladislav"></div></td>
         <td><i><b>Ladislav Peska</b></i>, Peter Vojtas</td>
       </tr>  
 </table>
